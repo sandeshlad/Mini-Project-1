@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:title="Toast"
+        android:id="@+id/item_toast"
+        />
+
+    <item
+
+        android:title="Custom Toast"
+        android:id="@+id/item_c_toast"
+        />
+    <item
+
+        android:title="PopUp Menu"
+        android:id="@+id/item_popup"
+        />
+    <item
+
+        android:title="Context Menu"
+        android:id="@+id/item_context"
+        />
+
+    <item
+
+        android:title="List View"
+        android:id="@+id/item_list"
+        />
+
+    <item
+
+        android:title="Spinner"
+        android:id="@+id/item_spinner"
+        />
+    <item
+
+        android:title="Auto Complete Textview"
+        android:id="@+id/item_autocomplete"
+        />
+    <item
+
+        android:title="Multi Auto Complete Textview"
+        android:id="@+id/item_multiautocomplete"
+        />
+
+
+</menu>
